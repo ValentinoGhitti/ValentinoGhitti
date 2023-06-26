@@ -34,6 +34,5 @@
 ### 🤝🏻 &nbsp;Contactame
 [![Portfolio](https://img.shields.io/badge/Portfolio-05122A.svg?style=for-the-badge&logo=apache-tomcat)](https://valentinoghitti.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentino-ghitti-b6042120a/)
-<a href="mailto:valentinoghitti00@hotmail.com">
-  <img src="https://img.shields.io/badge/Hotmail-05122A?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail">
-</a>
+[![Hotmail](https://img.shields.io/badge/Hotmail-05122A?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:valentinoghitti00@hotmail.com)
+
