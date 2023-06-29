@@ -8,8 +8,6 @@
 
 💻 &nbsp;Desarrollador web FullStack con conocimiento y experiencia en Javascript y TypeScript; de la mano de muchas herramientas que complementan las mismas. Con energía y ganas de avanzar en este apasionante mundo, me dedico a tiempo completo a seguir desarrollando estas habilidades.
 
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-
 ### 🛠 &nbsp;Tech Stack
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-05122A.svg?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
