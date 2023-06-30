@@ -2,12 +2,11 @@
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola soy Vachu</h2>
+<h2>Hola soy Vachu</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-💻 &nbsp;Desarrollador web FullStack con conocimiento y experiencia en Javascript y TypeScript; de la mano de muchas herramientas que complementan las mismas. Con energía y ganas de avanzar en este apasionante mundo, me dedico a tiempo completo a seguir desarrollando estas habilidades.
-
+💻 &nbsp;Desarrollador web FullStack, hincha del más grande de Córdoba, me gusta la música y saqué el Dead God en el Isaac.
 ### 🛠 &nbsp;Tech Stack
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-05122A.svg?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
@@ -34,4 +33,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-05122A.svg?style=for-the-badge&logo=apache-tomcat)](https://valentinoghitti.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentino-ghitti-b6042120a/)
 [![Hotmail](https://img.shields.io/badge/Hotmail-05122A?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:valentinoghitti00@hotmail.com)
+[![Letterbox](https://img.shields.io/badge/Letterbox-05122A.svg?style=for-the-badge&logo=letterboxd)](https://letterboxd.com/vachupado/)
+[![Steam](https://img.shields.io/badge/Steam-05122A.svg?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/Vachu)
+
 
