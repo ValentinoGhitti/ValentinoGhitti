@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-💻 &nbsp;Desarrollador web FullStack, hincha del más grande de Córdoba, me gusta la música y saqué el Dead God en el Isaac.
+💻 &nbsp;Desarrollador web FullStack, hincha del más grande de Córdoba, colecciono vinilos y saqué el Dead God en el Isaac.
 ### 🛠 &nbsp;Tech Stack
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-05122A.svg?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
