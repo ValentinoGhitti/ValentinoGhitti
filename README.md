@@ -16,13 +16,15 @@
 [![React](https://img.shields.io/badge/React-05122A.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-05122A.svg?style=for-the-badge&logo=redux)](https://redux.js.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-05122A.svg?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Jest](https://img.shields.io/badge/Jest-05122A.svg?style=for-the-badge&logo=jest)](https://jestjs.io/)
+
 [![Node.js](https://img.shields.io/badge/Node.js-05122A.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Nest.js](https://img.shields.io/badge/Nest.js-05122A.svg?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
 [![Express](https://img.shields.io/badge/Express-05122A.svg?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A.svg?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-05122A.svg?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![Jest](https://img.shields.io/badge/Jest-05122A.svg?style=for-the-badge&logo=jest)](https://jestjs.io/)
+
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=05122A)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=05122A)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&color=05122A)](https://getbootstrap.com/)
